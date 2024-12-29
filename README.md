@@ -13,7 +13,7 @@ English description in the bottom!
 ```groovy
 repositories {
   maven {
-    name = "wonmyee"
+    name = "MavenWon"
     url = "https://maven.wonmyee.kro.kr/"
   }
 }
